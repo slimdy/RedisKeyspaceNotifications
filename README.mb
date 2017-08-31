@@ -1,0 +1,1 @@
+本项目运用PHP语言，利用redis keyspaceNotification 特性 用来监听过期的key是触发的脚本程序
